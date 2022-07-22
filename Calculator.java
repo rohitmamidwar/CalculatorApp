@@ -8,6 +8,7 @@ public static void main(String args[])
 	sum=a+b;
 	System.out.println("The sum of two number is"+sum);
     System.out.println("hello world");
+    System.out.println("h");
     
 }
 
